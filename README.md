@@ -2,7 +2,7 @@
 
 ## Background
 
-A lot of South Korean inbound tour agencies are structured in ways that heavily rely on commissions generated from their customers buying various goods at designated shopping centres. Therefore it is extremely crucial for the agencies to see the status of these commissions generated as they happen. It is widely known within the company that the 3 components: tour guide, tour itinerary/type of team and shop significantly affect the commission generated. This report will use these key 3 components in reviewing the company's performance.<br>
+A lot of South Korean inbound tour agencies in Australia are structured in ways that heavily rely on commissions generated from their customers buying various goods at designated shopping centres. Therefore it is extremely crucial for the agencies to see the status of these commissions generated as they happen. It is widely known within the company that the 3 components: tour guide, tour itinerary/type of team and shop significantly affect the commission generated. This report will use these key 3 components in reviewing the company's performance.<br>
 <br>
 
 ## How to use
