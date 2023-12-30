@@ -7,7 +7,7 @@ A lot of South Korean inbound tour agencies in Australia are structured in ways 
 
 ## How to use
 
-Change the data source in PowerBI to the excel file. 
+Download both the excel file and the power bi file. Change the data source in PowerBI to the excel file. Power BI reads from the data and guide tab in the excel file, so please modify those two if needed. 
 
 ## Data Source
 
