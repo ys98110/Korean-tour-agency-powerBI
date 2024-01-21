@@ -9,12 +9,19 @@ A lot of South Korean inbound tour agencies in Australia are structured in ways 
 
 1. Download both the excel file and the power bi file.
 2. Change the data source in PowerBI to the excel file.
-3. Power BI reads from the data and guide tab in the excel file, so please modify those two if needed. Unless you'll be using the invoice functionality in excel, no other tab needs modifying. 
+3. Power BI reads from the data and guide tab in the excel file. Other tabs were created to do other tasks.  
 
 ## Data Source
 
 I have a modified version of the excel file it originally uses. So it is a dummy data. <br>
+
+## Definitions
+
 **Tour Code** contains follwing components in its code. First 6 letters consist of Types of itineraries, the next 6 letters consist of the tour's starting date, the remaining letters indicate the class of the tour.<br>
+
+**Types of itineraries** means different variants of packaged tours. Different destinations/routes. <br> 
+
+**Class** determines whether a team is a budget or more premium team. However, it isn't just 2 variants but many different variants of class.  <br>
 <br>
 
 ## Walkthrough of the Report
@@ -22,8 +29,7 @@ I have a modified version of the excel file it originally uses. So it is a dummy
 ### Overview
 
 As the title suggests, this page is meant to show the user overall status of the commission generated. The page can be filtered by ranges of dates, shops, types of itineraries of the teams and the class of these teams. <br>
-**Types of itineraries** means different variants of packaged tours. Different destinations/routes. <br> 
-**Class** determines whether a team is a budget or more premium team. The classification is not clear in the dummy dataset but it's just an indication that this can be done. <br>
+
 
 One of the most important KPIs that is widely used is the sales per head thus 3 of the visuals are related to this KPI. Going left to right and from up to down, we'll go through each of the visuals.
 
