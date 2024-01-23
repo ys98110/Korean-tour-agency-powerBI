@@ -11,7 +11,7 @@ A lot of South Korean inbound tour agencies in Australia are structured in ways 
 2. Change the data source in PowerBI to the excel file.
 3. Power BI reads from the data and guide tab in the excel file. Other tabs were created to do other tasks.  
 
-Demo link[https://www.novypro.com/project/korean-tour-agency-commission-analysis]
+Demo link:[https://www.novypro.com/project/korean-tour-agency-commission-analysis]
 
 ## Data Source
 
