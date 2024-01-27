@@ -30,6 +30,9 @@ I have a modified version of the excel file it originally uses. So it is a dummy
 
 ### Overview
 
+The demo seem to get an error in the first page. Here is the screenshot of what it's supposed to look like. 
+[Overview Page](https://github.com/ys98110/Korean-tour-agency-powerBI/blob/main/overview_screenshot.PNG)
+
 As the title suggests, this page is meant to show the user overall status of the commission generated. The page can be filtered by ranges of dates, shops, types of itineraries of the teams and the class of these teams. <br>
 
 
